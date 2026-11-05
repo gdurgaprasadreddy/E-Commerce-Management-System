@@ -46,7 +46,9 @@ The database contains 14 tables:
 
 ## Project Status
 
-Currently developing the database and solving SQL practice questions.
+Completed
+
+All 110 SQL queries have been written, executed, and tested successfully.
 
 ## Author
 
